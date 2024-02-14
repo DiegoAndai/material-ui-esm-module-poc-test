@@ -1,0 +1,18 @@
+{
+  "name": "material-ui-esm-module-poc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/base": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/base",
+    "@mui/material": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/material",
+    "@mui/private-theming": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/private-theming",
+    "@mui/styled-engine": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/styled-engine",
+    "@mui/system": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/system",
+    "@mui/utils": "https://pkg.csb.dev/mui/material-ui/commit/94e13c8e/@mui/utils"
+  }
+}
